@@ -1,0 +1,6 @@
+C:\Users\lapin\OneDrive\Рабочий стол\Hyekti\bulka sln\Properties\sound.wav
+C:\Users\lapin\OneDrive\Рабочий стол\Hyekti\bulka sln\bulka.exe
+C:\Users\lapin\OneDrive\Рабочий стол\Hyekti\bulka sln\bulka.dll
+C:\Users\lapin\OneDrive\Рабочий стол\Hyekti\bulka sln\bulka.deps.json
+C:\Users\lapin\OneDrive\Рабочий стол\Hyekti\bulka sln\bulka.runtimeconfig.json
+C:\Users\lapin\OneDrive\Рабочий стол\Hyekti\bulka sln\bulka.pdb

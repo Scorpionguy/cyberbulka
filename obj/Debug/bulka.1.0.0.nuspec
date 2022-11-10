@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>bulka</id>
+    <version>1.0.0</version>
+    <authors>bulka</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\lapin\source\repos\bulka\bulka\bin\Debug\net5.0-windows\bulka.runtimeconfig.json" target="lib\net5.0-windows7.0\bulka.runtimeconfig.json" />
+    <file src="C:\Users\lapin\source\repos\bulka\bulka\bin\Debug\net5.0-windows\bulka.dll" target="lib\net5.0-windows7.0\bulka.dll" />
+  </files>
+</package>

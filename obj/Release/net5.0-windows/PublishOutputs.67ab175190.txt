@@ -1,0 +1,5 @@
+C:\cyberBULing\bulka.exe
+C:\cyberBULing\bulka.dll
+C:\cyberBULing\bulka.deps.json
+C:\cyberBULing\bulka.runtimeconfig.json
+C:\cyberBULing\bulka.pdb
